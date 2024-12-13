@@ -14,6 +14,16 @@
 ## .:[ Dependencies ]:.
 [ffmpeg.exe](https://github.com/BtbN/FFmpeg-Builds)
 
+## .:[ Instruction ]:.
+
+1- Extract zip any where.
+
+2- Create + drop you mp3/wav in `sounds` folder.
+
+3- Run `VolumeAdjuster_GoldKingZ.exe`.
+
+4- `BackUp_Sounds` orginal mp3/wav will be where `VolumeAdjuster_GoldKingZ.exe` located. 
+
 
 ## .:[ Change Log ]:.
 ```
