@@ -18,7 +18,7 @@
 
 1- Extract zip any where.
 
-2- Create + drop you mp3/wav in `sounds` folder.
+2- Create + drop your mp3/wav in `sounds` folder.
 
 3- Run `VolumeAdjuster_GoldKingZ.exe`.
 
